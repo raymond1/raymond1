@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @raymond1
 - 👀 I’m interested in meeting people.
-- 🌱 I’m currently learning random front end things related to JavaScript.
-- 💞️ I’m looking not looking to collaborate.
+- 🌱 I’m currently working on a custom cms that will have my most desired features.
 - 📫 You can reach me by email at raymondleon@raymondleon.ca.
 
